@@ -1,0 +1,1 @@
+Dosya işlemleri

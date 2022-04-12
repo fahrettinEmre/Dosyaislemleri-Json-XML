@@ -1,0 +1,27 @@
+[
+    {
+        "isim": "Fahrettin",
+        "maas": 5000,
+        "puan": 5
+    },
+    {
+        "isim": "Şaban",
+        "maas": 5550,
+        "puan": 6
+    },
+    {
+        "isim": "Mehmet",
+        "maas": 4367,
+        "puan": 7
+    },
+    {
+        "isim": "Ahmet",
+        "maas": 6336,
+        "puan": 11
+    },
+    {
+        "isim": "Emre",
+        "maas": 6000,
+        "puan": 9
+    }
+]
