@@ -1,0 +1,1 @@
+Klasörün içinde dosya varsa true, yoksa false döner. Eğer belirtilen isimde bir klasör yoksa ‘no such file or directory’ hata mesajı döner.
